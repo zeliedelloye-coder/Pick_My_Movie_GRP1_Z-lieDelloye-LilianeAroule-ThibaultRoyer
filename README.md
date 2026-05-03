@@ -11,5 +11,5 @@ Deux solutions pour lancer le projet : lancer toutes les tuiles du notebook les 
 Il est à noter que quelque soit le votre choix, l'étape "model = api.load("fasttext-wiki-news-subwords-300")" (Toute première étape sur l'interface) est une étape qui va prendre plusieurs importantes minutes car le model est d'environ 1 Go. 
 
 Pour le fichier "PickMyMovie Rapport final GRP1" veuillez bien téléchargez toutes les images et les mettre dans le même fichier que le notebook.
-NE PAS LANCER LES CASES AVEC DU CODE, mais pour afficher les images, il faut exécuter les tuiles avec un code d'image comme celui ci <img src="images/similarités_matrix.png" width="500">. Sinon il ne faut pas éxecuter.
+NE PAS LANCER LES CASES AVEC DU CODE, mais pour afficher les images, il faut exécuter les tuiles avec un code d'image comme celui ci "<img src="images/similarités_matrix.png" width="500">". Sinon il ne faut pas éxecuter.
 
