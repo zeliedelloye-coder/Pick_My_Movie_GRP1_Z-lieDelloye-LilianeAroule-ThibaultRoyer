@@ -1,6 +1,6 @@
 # Pick_My_Movie_GRP1_ZelieDelloye-LilianeAroule-ThibaultRoyer
 Un projet académique de Machine learning à l'ESME du groupe 1 : Zélie Delloye, Liliane Aroule et Thibault Royer.
-La première étape pour tous les types fichiers est de les télécharger. Pensez à bien mettre "PickMyMovie-GRP1" dans le fichier "datas" et le fichier "PickMyMovie Rapport final GRP1" dans le fichier "images"
+La première étape pour tous les types fichiers est de les télécharger. Pensez à bien mettre "PickMyMovie-GRP1" dans le fichier "datas" et le fichier "PickMyMovie Rapport final GRP1" dans le fichier "images". ATTENTION VÉRIFIER QUE PANDA EST À JOUR !
 
 Pour le fichier "PickMyMovie-GRP1", veuillez à bien avoir dans le même dossier les fichier csv suivant :
 - genome-scores.csv
