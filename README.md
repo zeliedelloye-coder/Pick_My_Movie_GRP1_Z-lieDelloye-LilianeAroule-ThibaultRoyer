@@ -25,13 +25,11 @@ genome_scores["tagId"] = pd.to_numeric(genome_scores["tagId"], errors="coerce")
 
 genome_tags["tagId"] = pd.to_numeric(genome_tags["tagId"], errors="coerce")
 
-# on supprime les lignes cassées
 movies = movies.dropna(subset=["movieId"])
 ratings = ratings.dropna(subset=["movieId"])
 genome_scores = genome_scores.dropna(subset=["movieId", "tagId"])
 genome_tags = genome_tags.dropna(subset=["tagId"])
 
-# conversion finale propre
 movies["movieId"] = movies["movieId"].astype(int)
 ratings["movieId"] = ratings["movieId"].astype(int)
 genome_scores["movieId"] = genome_scores["movieId"].astype(int)
