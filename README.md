@@ -13,5 +13,4 @@ Il est à noter que quelque soit le votre choix, l'étape "model = api.load("fas
 Pour le fichier "PickMyMovie Rapport final GRP1" veuillez bien téléchargez toutes les images et les mettre dans le même fichier que le notebook.
 NE PAS LANCER LES CASES AVEC DU CODE, mais pour afficher les images, il faut exécuter les tuiles avec un code d'image comme celui ci "<img src="images/similarités_matrix.png" width="500">". Sinon il ne faut pas éxecuter.
 
-
-
+En cas de problème pour télécharger les fichiers ou éxecuter une tuile du code, veuillez ecrire à zelie.delloye@esme.fr
